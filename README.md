@@ -4,7 +4,7 @@
  _Allows the user to upload a pdf file which contains text, and provides an option to choose the required summary length. At one click the page displays the summary of required length and allows the user to copy the content to clipboard._
 
 # Languages used
- Python, HTMl, CSS
+ Python, HTML, CSS
 # Python requirements:
  - Flask
  - pdfplumber
